@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/test/java/interfaces/Test.java" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Operation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Checking.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Server.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Application.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Limit.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/InsufficientFundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/MyException.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\User\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gm23380J2AxHZXafjaZOGw4qMk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="interfaces" />
+      <recent name="Interfaces" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Limit">
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Exceptions" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Find" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Limit" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Test" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Limit" />
+        <item itemvalue="Application.Find" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Exceptions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="" />
+      <created>1598705247094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598705247094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="31" key="#Inspections" timestamp="1599389535478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="31" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1599389535478" />
+    <state x="243" y="0" key="#Intentions" timestamp="1599397996332">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1599397996332" />
+    <state x="456" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1599397859590">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1599397859590" />
+    <state x="381" y="99" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599405023850">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="99" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1599405023850" />
+    <state x="381" y="99" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1599400047568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="99" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1599400047568" />
+    <state width="1222" height="138" key="GridCell.Tab.0.bottom" timestamp="1599407278304">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599407278304" />
+    <state width="1222" height="138" key="GridCell.Tab.0.center" timestamp="1599407278303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599407278303" />
+    <state width="1222" height="138" key="GridCell.Tab.0.left" timestamp="1599407278303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599407278303" />
+    <state width="1222" height="138" key="GridCell.Tab.0.right" timestamp="1599407278303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599407278303" />
+    <state x="231" y="87" key="IDE.errors.dialog" timestamp="1599399067063">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="231" y="87" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1599399067063" />
+    <state x="181" y="0" key="Maven.ArtifactSearchDialog" timestamp="1599397727078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1599397727078" />
+    <state x="152" y="0" key="SettingsEditor" timestamp="1599408038565">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="152" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599408038565" />
+    <state x="422" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599406687354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1599406687354" />
+    <state x="218" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599391697983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="218" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1599391697983" />
+    <state x="730" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1598790355426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="730" y="144" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1598790355426" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/payment$Exceptions.ic" NAME="Exceptions Coverage Results" MODIFIED="1599394426799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>interfaces.*</FILTER>
+    </SUITE>
+  </component>
+</project>
