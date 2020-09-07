@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="" />
+    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="исключения">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -57,6 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -144,7 +152,30 @@
       <option name="presentableId" value="Default" />
       <updated>1598705247094</updated>
     </task>
+    <task id="LOCAL-00001" summary="исключения">
+      <created>1599409486842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599409486843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="исключения" />
+    <option name="LAST_COMMIT_MESSAGE" value="исключения" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="31" key="#Inspections" timestamp="1599389535478">
@@ -175,22 +206,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="447" y="50" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1599408262145" />
-    <state width="1222" height="138" key="GridCell.Tab.0.bottom" timestamp="1599407278304">
+    <state width="1222" height="138" key="GridCell.Tab.0.bottom" timestamp="1599409752552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599407278304" />
-    <state width="1222" height="138" key="GridCell.Tab.0.center" timestamp="1599407278303">
+    <state width="1222" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
+    <state width="1222" height="138" key="GridCell.Tab.0.center" timestamp="1599409752552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599407278303" />
-    <state width="1222" height="138" key="GridCell.Tab.0.left" timestamp="1599407278303">
+    <state width="1222" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
+    <state width="1222" height="138" key="GridCell.Tab.0.left" timestamp="1599409752552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599407278303" />
-    <state width="1222" height="138" key="GridCell.Tab.0.right" timestamp="1599407278303">
+    <state width="1222" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
+    <state width="1222" height="138" key="GridCell.Tab.0.right" timestamp="1599409752552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599407278303" />
+    <state width="1222" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
     <state x="231" y="87" key="IDE.errors.dialog" timestamp="1599408045615">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -203,6 +234,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="152" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599408038565" />
+    <state x="243" y="85" key="Vcs.Push.Dialog.v2" timestamp="1599409501219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="85" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599409501219" />
     <state x="422" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599406687354">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
