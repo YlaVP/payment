@@ -1,4 +1,4 @@
-package interfaces;
+package ru.exapmple;
 
 public class Test {
 
@@ -8,7 +8,7 @@ public class Test {
         User user1 = new User(1);
 
 
-        outputOperation(user1);
+        outputOperation((Operation) user1);
 
     }
 

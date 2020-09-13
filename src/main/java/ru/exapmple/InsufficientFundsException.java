@@ -1,4 +1,4 @@
-package interfaces;
+package ru.exapmple;
 
 public class InsufficientFundsException extends Exception {
     private double amount;

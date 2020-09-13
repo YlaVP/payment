@@ -3,9 +3,40 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="исключения">
+    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="новая ветка">
+      <change afterPath="$PROJECT_DIR$/java/lang/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/payment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/Checking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/InsufficientFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/InsufficientFundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/Limit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/Limit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/exapmple/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interfaces/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +48,7 @@
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints>
-      <file url="file://$PROJECT_DIR$/src/test/java/interfaces/Test.java" />
+      <file url="file://$PROJECT_DIR$/src/main/java/ru/exapmple/Test.java" />
     </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -25,8 +56,8 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,15 +70,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/User.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Operation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Checking.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Server.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Application.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Limit.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/Test.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/InsufficientFundsException.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/interfaces/MyException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/User.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/app/User.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/Operation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/Checking.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/app/Server.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/app/Application.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/Limit.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/InsufficientFundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/exapmple/MyException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -67,40 +100,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="interfaces" />
       <recent name="Interfaces" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="interfaces" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\payment\src\main\java\ru\exapmple" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Limit">
-    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Exceptions" />
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Limit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.exapmple.Limit" />
       <module name="payment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Find" />
-      <module name="payment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaces.*" />
+          <option name="PATTERN" value="ru.exapmple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,6 +146,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Server" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.exapmple.Test" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.exapmple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.Test" />
       <module name="payment" />
@@ -134,12 +185,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.exapmple.validation.Test" />
+      <module name="payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.exapmple.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Limit (1)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Limit" />
-        <item itemvalue="Application.Find" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599409486843</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="новая ветка">
+      <created>1599480987783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599480987783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,10 +244,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="исключения" />
-    <option name="LAST_COMMIT_MESSAGE" value="исключения" />
+    <MESSAGE value="новая ветка" />
+    <option name="LAST_COMMIT_MESSAGE" value="новая ветка" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="31" key="#Inspections" timestamp="1599389535478">
@@ -190,6 +264,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="456" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1599397859590" />
+    <state x="381" y="129" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1599997335407">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="129" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1599997335407" />
+    <state x="435" y="44" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1600003090797">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="44" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600003090797" />
+    <state x="330" y="277" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599997313565">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="330" y="277" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1599997313565" />
+    <state x="448" y="234" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599997337050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="448" y="234" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1599997337050" />
     <state x="381" y="99" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599405023850">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -198,6 +288,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="381" y="99" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1599400047568" />
+    <state x="398" y="197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600002157204">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1600002157204" />
+    <state x="431" y="107" key="FileChooserDialogImpl" timestamp="1599998231946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="431" y="107" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599998231946" />
     <state x="529" y="250" key="Github.ShareDialog" timestamp="1599408128957">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -206,46 +304,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="447" y="50" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1599408262145" />
-    <state width="1222" height="138" key="GridCell.Tab.0.bottom" timestamp="1599409752552">
+    <state width="1222" height="138" key="GridCell.Tab.0.bottom" timestamp="1600008677470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
-    <state width="1222" height="138" key="GridCell.Tab.0.center" timestamp="1599409752552">
+    <state width="1222" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600008677470" />
+    <state width="1222" height="138" key="GridCell.Tab.0.center" timestamp="1600008677470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
-    <state width="1222" height="138" key="GridCell.Tab.0.left" timestamp="1599409752552">
+    <state width="1222" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600008677470" />
+    <state width="1222" height="138" key="GridCell.Tab.0.left" timestamp="1600008677470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
-    <state width="1222" height="138" key="GridCell.Tab.0.right" timestamp="1599409752552">
+    <state width="1222" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600008677470" />
+    <state width="1222" height="138" key="GridCell.Tab.0.right" timestamp="1600008677470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599409752552" />
+    <state width="1222" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600008677470" />
     <state x="231" y="87" key="IDE.errors.dialog" timestamp="1599408045615">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="231" y="87" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1599408045615" />
-    <state x="181" y="0" key="Maven.ArtifactSearchDialog" timestamp="1599397727078">
+    <state x="181" y="0" key="Maven.ArtifactSearchDialog" timestamp="1600002997555">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="181" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1599397727078" />
-    <state x="152" y="0" key="SettingsEditor" timestamp="1599408038565">
+    <state x="181" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1600002997555" />
+    <state x="152" y="0" key="SettingsEditor" timestamp="1600007106583">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="152" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599408038565" />
-    <state x="243" y="85" key="Vcs.Push.Dialog.v2" timestamp="1599409501219">
+    <state x="152" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600007106583" />
+    <state x="243" y="85" key="Vcs.Push.Dialog.v2" timestamp="1599481003332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="243" y="85" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599409501219" />
+    <state x="243" y="85" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599481003332" />
     <state x="422" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599406687354">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1599406687354" />
-    <state x="218" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599391697983">
+    <state x="218" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599999368274">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="218" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1599391697983" />
+    <state x="218" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1599999368274" />
     <state x="730" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1598790355426">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -257,6 +355,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.IOException" package="java.io" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="ru.exapmple.InsufficientFundsException" package="ru.exapmple" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

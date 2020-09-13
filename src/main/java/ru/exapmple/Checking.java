@@ -1,4 +1,4 @@
-package interfaces;
+package ru.exapmple;
 
 public class Checking {
     private int number;

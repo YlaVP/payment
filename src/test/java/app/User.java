@@ -1,7 +1,9 @@
-package interfaces;
+package app;
+
+import ru.exapmple.Operation;
 
 public class User implements Operation {
-    public int id;
+    private int id;
     public User(int id){
         this.id = id;
 
@@ -18,7 +20,7 @@ public class User implements Operation {
         accountNumber = 40817810;
 
         int numberPhone;
-        numberPhone = 11111;
+        numberPhone = 891111111;
 
         System.out.println("Cумма перевода: " + amount);
         System.out.println("Номер счета: " + accountNumber);
@@ -27,6 +29,7 @@ public class User implements Operation {
         System.out.println("Остаток: " + balance);
 
     }
+    @Override
         public void payOperation() {
         System.out.println("Id is "+this.id);
 
