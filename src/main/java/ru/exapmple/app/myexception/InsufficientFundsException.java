@@ -1,4 +1,4 @@
-package ru.exapmple;
+package ru.exapmple.app.myexception;
 
 public class InsufficientFundsException extends Exception {
     private double amount;

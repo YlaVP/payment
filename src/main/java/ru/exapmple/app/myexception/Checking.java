@@ -1,5 +1,12 @@
-package ru.exapmple;
+package ru.exapmple.app.myexception;
 
+import lombok.AllArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+@AllArgsConstructor
+@Setter
+@ToString
 public class Checking {
     private int number;
     private double balance;
