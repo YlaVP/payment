@@ -1,7 +1,10 @@
-package interfaces;
+package ru.exapmple.app.myexception;
+
 
 public class Limit {
-        public static void main(String [] args) {
+        private static Exception ex;
+
+        public static void main(String [] args) throws Exception {
                 Checking c = new Checking(101);
                 System.out.println("Остаток 300 рублей...");
                 c.limit(300.00);
@@ -14,6 +17,11 @@ public class Limit {
                 }catch(InsufficientFundsException e) {
                         System.out.println("Извините, но у Вас всего рублей " + e.getAmount());
                         e.printStackTrace();
+
+                        throw ex;
+
                 }
+
+
         }
 }
