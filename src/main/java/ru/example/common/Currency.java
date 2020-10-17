@@ -1,16 +1,17 @@
 package ru.example.common;
 
-
 public enum Currency {
-    RUB("P"), EUR("$"), USD("&");
-    private String cymbol;
+    RUB("P"),
+    EUR("$"),
+    USD("&");
+        private String symbol;
 
-    Currency(String cymbol) {
-        this.cymbol = cymbol;
+        Currency(String symbol) {
+        this.symbol = symbol;
     }
 
-    public String getCode() {
-        return cymbol;
+    public String getSymbol() {
+        return symbol;
     }
 }
 

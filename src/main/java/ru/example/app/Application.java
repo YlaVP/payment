@@ -1,5 +1,8 @@
-package ru.example.app.validation;
+package ru.example.app;
+
+
 
 public interface Application {
+
    void payTransactions();
 }

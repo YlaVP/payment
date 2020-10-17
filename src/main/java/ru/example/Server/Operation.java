@@ -1,7 +1,11 @@
-package ru.example.server;
+package ru.example.Server;
 
-public interface Host {
-    void PhonePayment();
+import ru.example.common.PhonePayment;
+import java.util.function.Predicate;
+
+public interface Operation {
+    boolean PhonePayment(PhonePayment phonePayment, Predicate<Double> predicate);
+    }
 
     // public class Server<account, summ, accountcount> {
     //    Map<String, String> hashMap = new HashMap<>();
@@ -33,4 +37,4 @@ public interface Host {
 
     //}
 
-}
+
