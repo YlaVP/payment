@@ -1,4 +1,4 @@
-package ru.example.common;
+package payment.Common;
 
 public enum Currency {
     RUB("P"),

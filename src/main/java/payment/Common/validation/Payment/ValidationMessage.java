@@ -1,4 +1,4 @@
-package ru.example.common.validation.Payment;
+package payment.Common.validation.Payment;
 
 public enum ValidationMessage {
     PHONE("Phone is not correct"),

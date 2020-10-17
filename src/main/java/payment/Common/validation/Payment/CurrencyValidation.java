@@ -1,6 +1,6 @@
-package ru.example.common.validation.Payment;
+package payment.Common.validation.Payment;
 
-import ru.example.common.Currency;
+import payment.Common.Currency;
 
 public class CurrencyValidation extends  RuntimeException{
     private Currency currency;

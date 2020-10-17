@@ -1,13 +1,11 @@
-package ru.example.common;
+package payment.Common;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.ToString;
 import org.springframework.stereotype.Component;
-import ru.example.common.validation.Payment.PhoneValidation;
-import ru.example.common.validation.Payment.ValidationMessage;
-
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import payment.Common.validation.Payment.PhoneValidation;
+import payment.Common.validation.Payment.ValidationMessage;
 
 @Getter
 @ToString

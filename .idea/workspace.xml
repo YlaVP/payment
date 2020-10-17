@@ -25,46 +25,25 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="Исправление ошибок 11.10.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/app/WebApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/common/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/PhoneValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/myexception/Checking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/myexception/InsufficientFundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/myexception/MyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/validation/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/app/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/validation/PhoneValidation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/validation/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/validation/WebApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/common/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/PhonePayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/common/PhonePayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/server/BankXHost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/Server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/server/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/Server/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/user/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/user/PhoneCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/user/phonenumber/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/common/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/myexception/Checking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/myexception/InsufficientFundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/myexception/Limit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/myexception/MyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/validation/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/validation/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/app/validation/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/common/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/common/Currency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/common/PhonePayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/common/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/server/BankXHost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/server/Host.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/user/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/user/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/user/PhoneCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/exapmple/user/phonenumber/PhoneNumber.java" beforeDir="false" />
+    <list default="true" id="25aff9e3-481a-45fc-9f6a-5a10a37d025c" name="Default Changelist" comment="Исправление ошибок">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Server/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Server/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Server/StatusPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Server/StatusPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/App/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/app/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/App/WebApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/PhonePayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/PhonePayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/AmountValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/validation/Payment/AmountValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/CurrencyValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/validation/Payment/CurrencyValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/PhoneValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/validation/Payment/PhoneValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/ValidationMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payment/Common/validation/Payment/ValidationMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/example/Server/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/payment/Server/ServerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,19 +82,19 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/Phone.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/User.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/Phone.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/User.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/app/Application.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/PhoneValidation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/app/WebApp.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/Server/Server.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/Account.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/Server/Operation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/PhonePayment.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/validation/Payment/ValidationMessage.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/example/common/Currency.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/App/Application.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/validation/Payment/PhoneValidation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/App/WebApp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Server/Server.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/Account.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Server/Operation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/PhonePayment.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/validation/Payment/ValidationMessage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/payment/Common/Currency.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -150,6 +129,10 @@
       <recent name="interfaces" />
       <recent name="Interfaces" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.example" />
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -159,7 +142,7 @@
       <recent name="interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.exapmple.user.Check" />
       <module name="payment" />
@@ -173,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Limit" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="payment.Main" />
       <module name="payment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces.*" />
+          <option name="PATTERN" value="payment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,7 +174,7 @@
       <module name="payment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.example.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ServerTest.phonePayment" />
         <item itemvalue="JUnit.PhoneNumberTest.checkTelNumber" />
         <item itemvalue="Application.Check" />
-        <item itemvalue="Application.Limit" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602427063380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Исправление ошибок">
+      <created>1602957486625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957486625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Исправление ошибок">
+      <created>1602957512120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957512120</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -296,7 +293,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Исправление ошибок 11.10." />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправление ошибок 11.10." />
+    <MESSAGE value="Исправление ошибок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправление ошибок" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="31" key="#Inspections" timestamp="1599389535478">
@@ -311,10 +309,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="133" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1602953305429" />
-    <state x="456" y="0" width="388" height="680" key="#com.intellij.ide.util.MemberChooser" timestamp="1602953669449">
+    <state x="456" y="0" width="388" height="680" key="#com.intellij.ide.util.MemberChooser" timestamp="1602958087030">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="456" y="0" width="388" height="680" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602953669449" />
+    <state x="456" y="0" width="388" height="680" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602958087030" />
     <state x="437" y="33" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1602421182632">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -327,6 +325,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="462" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1602940803707" />
+    <state x="424" y="206" width="432" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602958379113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="206" width="432" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1602958379113" />
     <state x="-160" y="21" width="1181" height="659" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602940861507">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -355,22 +357,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="447" y="50" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1599408262145" />
-    <state width="1237" height="107" key="GridCell.Tab.0.bottom" timestamp="1602957270197">
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom" timestamp="1602959881999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="107" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602957270197" />
-    <state width="1237" height="107" key="GridCell.Tab.0.center" timestamp="1602957270197">
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602959881999" />
+    <state width="1237" height="86" key="GridCell.Tab.0.center" timestamp="1602959881999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="107" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602957270197" />
-    <state width="1237" height="107" key="GridCell.Tab.0.left" timestamp="1602957270197">
+    <state width="1237" height="86" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602959881999" />
+    <state width="1237" height="86" key="GridCell.Tab.0.left" timestamp="1602959881999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="107" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602957270197" />
-    <state width="1237" height="107" key="GridCell.Tab.0.right" timestamp="1602957270197">
+    <state width="1237" height="86" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602959881999" />
+    <state width="1237" height="86" key="GridCell.Tab.0.right" timestamp="1602959881999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="107" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602957270197" />
+    <state width="1237" height="86" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602959881999" />
     <state x="231" y="87" key="IDE.errors.dialog" timestamp="1599408045615">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -391,10 +393,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="152" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599408038565" />
-    <state x="245" y="83" key="Vcs.Push.Dialog.v2" timestamp="1602427094390">
+    <state x="245" y="83" key="Vcs.Push.Dialog.v2" timestamp="1602957514165">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="245" y="83" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602427094390" />
+    <state x="245" y="83" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602957514165" />
     <state x="380" y="84" key="VcsDiffUtil.ChangesDialog" timestamp="1602425944422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

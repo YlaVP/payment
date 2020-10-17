@@ -1,12 +1,12 @@
-package ru.example.common;
+package payment.Common;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.ToString;
 import org.springframework.stereotype.Component;
-import ru.example.common.validation.Payment.AmountValidation;
-import ru.example.common.validation.Payment.CurrencyValidation;
-import ru.example.common.validation.Payment.ValidationMessage;
+import payment.Common.validation.Payment.CurrencyValidation;
+import payment.Common.validation.Payment.AmountValidation;
+import payment.Common.validation.Payment.ValidationMessage;
 
 @AllArgsConstructor
 @Getter

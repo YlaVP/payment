@@ -1,10 +1,10 @@
-package ru.example.Server;
+package payment.Server;
 
 import org.junit.Test;
-import ru.example.common.Account;
-import ru.example.common.Currency;
-import ru.example.common.Phone;
-import ru.example.common.PhonePayment;
+import payment.Common.Account;
+import payment.Common.Currency;
+import payment.Common.PhonePayment;
+import payment.Common.Phone;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;

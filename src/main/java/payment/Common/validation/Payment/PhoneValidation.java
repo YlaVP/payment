@@ -1,9 +1,7 @@
-package ru.example.common.validation.Payment;
+package payment.Common.validation.Payment;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import ru.example.app.Application;
 
 
 @Getter

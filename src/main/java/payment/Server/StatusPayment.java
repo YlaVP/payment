@@ -1,4 +1,4 @@
-package ru.example.Server;
+package payment.Server;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,6 +1,7 @@
-package ru.example.Server;
+package payment.Server;
 
-import ru.example.common.PhonePayment;
+import payment.Common.PhonePayment;
+
 import java.util.function.Predicate;
 
 public interface Operation {

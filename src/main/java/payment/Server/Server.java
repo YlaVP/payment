@@ -1,24 +1,23 @@
-package ru.example.Server;
+package payment.Server;
 
-import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
-import ru.example.common.PhonePayment;
-import ru.example.common.validation.Payment.AmountValidation;
-import ru.example.common.validation.Payment.CurrencyValidation;
-import ru.example.common.validation.Payment.PhoneValidation;
+import payment.Common.PhonePayment;
+import payment.Common.validation.Payment.AmountValidation;
+import payment.Common.validation.Payment.CurrencyValidation;
+import payment.Common.validation.Payment.PhoneValidation;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Predicate;
 
-@AllArgsConstructor
-@Component("server")
+
+@Component()
 public class Server implements Operation {
 
     private final Map<PhonePayment, StatusPayment> payments = new HashMap<>();
 
-//    public Server() {
-//    }
+    public Server() {
+    }
 
     @Override
     public boolean PhonePayment(PhonePayment phonePayment, Predicate<Double> predicate) {

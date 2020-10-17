@@ -1,4 +1,4 @@
-package ru.example.app;
+package payment.App;
 
 
 
