@@ -1,12 +1,16 @@
-package ru.exapmple.common;
+package ru.example.payment;
 
 
     public enum Currency{
-        RUB(810), EUR(978), USD(840);
+        RUB(810),
+        EUR(978),
+        USD(840);
+
       private int code;
       Currency (int code){
           this.code=code;
       }
+
       public int getCode(){
           return code;
       }
