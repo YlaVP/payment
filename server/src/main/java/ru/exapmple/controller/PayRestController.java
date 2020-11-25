@@ -1,4 +1,4 @@
-package ru.exapmple.app.controller;
+package ru.exapmple.controller;
 
 
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import ru.exapmple.app.component.PhoneNumber;
-import ru.exapmple.app.validation.PhoneValidationException;
+import ru.exapmple.component.PhoneNumber;
+import ru.exapmple.validation.PhoneValidationException;
 
 @RestController
 @AllArgsConstructor

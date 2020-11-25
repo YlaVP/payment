@@ -1,4 +1,4 @@
-package ru.example.payment;
+package ru.example.payment.common;
 
 
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package ru.exapmple.app.validation;
+package ru.exapmple.app;
 
 
 

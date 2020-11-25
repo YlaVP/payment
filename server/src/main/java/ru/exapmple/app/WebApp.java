@@ -1,4 +1,4 @@
-package ru.exapmple.app.validation;
+package ru.exapmple.app;
 
 public class WebApp implements Application{
     private String phoneNumber;
